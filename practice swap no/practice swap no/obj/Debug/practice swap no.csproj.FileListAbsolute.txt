@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\practice swap no\practice swap no\obj\Debug\practice swap no.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\practice swap no\practice swap no\obj\Debug\practice swap no.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\practice swap no\practice swap no\bin\Debug\practice swap no.exe.config
+C:\Users\Premananda\source\repos\practice swap no\practice swap no\bin\Debug\practice swap no.exe
+C:\Users\Premananda\source\repos\practice swap no\practice swap no\bin\Debug\practice swap no.pdb
+C:\Users\Premananda\source\repos\practice swap no\practice swap no\obj\Debug\practice swap no.exe
+C:\Users\Premananda\source\repos\practice swap no\practice swap no\obj\Debug\practice swap no.pdb

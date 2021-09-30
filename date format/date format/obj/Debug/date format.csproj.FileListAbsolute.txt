@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\date format\date format\bin\Debug\date format.exe.config
+C:\Users\Premananda\source\repos\date format\date format\bin\Debug\date format.exe
+C:\Users\Premananda\source\repos\date format\date format\bin\Debug\date format.pdb
+C:\Users\Premananda\source\repos\date format\date format\obj\Debug\date format.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\date format\date format\obj\Debug\date format.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\date format\date format\obj\Debug\date format.exe
+C:\Users\Premananda\source\repos\date format\date format\obj\Debug\date format.pdb

@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\leapyr prac.dlt\leapyr prac.dlt\obj\Debug\leapyr prac.dlt.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\leapyr prac.dlt\leapyr prac.dlt\obj\Debug\leapyr prac.dlt.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\leapyr prac.dlt\leapyr prac.dlt\bin\Debug\leapyr prac.dlt.exe.config
+C:\Users\Premananda\source\repos\leapyr prac.dlt\leapyr prac.dlt\bin\Debug\leapyr prac.dlt.exe
+C:\Users\Premananda\source\repos\leapyr prac.dlt\leapyr prac.dlt\bin\Debug\leapyr prac.dlt.pdb
+C:\Users\Premananda\source\repos\leapyr prac.dlt\leapyr prac.dlt\obj\Debug\leapyr prac.dlt.exe
+C:\Users\Premananda\source\repos\leapyr prac.dlt\leapyr prac.dlt\obj\Debug\leapyr prac.dlt.pdb

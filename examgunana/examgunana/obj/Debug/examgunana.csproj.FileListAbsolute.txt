@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\examgunana\examgunana\bin\Debug\examgunana.exe.config
+C:\Users\Premananda\source\repos\examgunana\examgunana\bin\Debug\examgunana.exe
+C:\Users\Premananda\source\repos\examgunana\examgunana\bin\Debug\examgunana.pdb
+C:\Users\Premananda\source\repos\examgunana\examgunana\obj\Debug\examgunana.csprojAssemblyReference.cache
+C:\Users\Premananda\source\repos\examgunana\examgunana\obj\Debug\examgunana.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\examgunana\examgunana\obj\Debug\examgunana.exe
+C:\Users\Premananda\source\repos\examgunana\examgunana\obj\Debug\examgunana.pdb

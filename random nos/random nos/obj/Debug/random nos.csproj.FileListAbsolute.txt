@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\random nos\random nos\bin\Debug\random nos.exe.config
+C:\Users\Premananda\source\repos\random nos\random nos\bin\Debug\random nos.exe
+C:\Users\Premananda\source\repos\random nos\random nos\bin\Debug\random nos.pdb
+C:\Users\Premananda\source\repos\random nos\random nos\obj\Debug\random nos.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\random nos\random nos\obj\Debug\random nos.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\random nos\random nos\obj\Debug\random nos.exe
+C:\Users\Premananda\source\repos\random nos\random nos\obj\Debug\random nos.pdb

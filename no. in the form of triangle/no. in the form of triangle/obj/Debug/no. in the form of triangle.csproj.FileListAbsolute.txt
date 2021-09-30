@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\no. in the form of triangle\no. in the form of triangle\bin\Debug\no.in_the_form_of_triangle.exe.config
+C:\Users\Premananda\source\repos\no. in the form of triangle\no. in the form of triangle\bin\Debug\no.in_the_form_of_triangle.exe
+C:\Users\Premananda\source\repos\no. in the form of triangle\no. in the form of triangle\bin\Debug\no.in_the_form_of_triangle.pdb
+C:\Users\Premananda\source\repos\no. in the form of triangle\no. in the form of triangle\obj\Debug\no. in the form of triangle.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\no. in the form of triangle\no. in the form of triangle\obj\Debug\no. in the form of triangle.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\no. in the form of triangle\no. in the form of triangle\obj\Debug\no.in_the_form_of_triangle.exe
+C:\Users\Premananda\source\repos\no. in the form of triangle\no. in the form of triangle\obj\Debug\no.in_the_form_of_triangle.pdb

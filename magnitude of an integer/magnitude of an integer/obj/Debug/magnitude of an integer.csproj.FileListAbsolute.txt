@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\magnitude of an integer\magnitude of an integer\bin\Debug\magnitude of an integer.exe.config
+C:\Users\Premananda\source\repos\magnitude of an integer\magnitude of an integer\bin\Debug\magnitude of an integer.exe
+C:\Users\Premananda\source\repos\magnitude of an integer\magnitude of an integer\bin\Debug\magnitude of an integer.pdb
+C:\Users\Premananda\source\repos\magnitude of an integer\magnitude of an integer\obj\Debug\magnitude of an integer.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\magnitude of an integer\magnitude of an integer\obj\Debug\magnitude of an integer.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\magnitude of an integer\magnitude of an integer\obj\Debug\magnitude of an integer.exe
+C:\Users\Premananda\source\repos\magnitude of an integer\magnitude of an integer\obj\Debug\magnitude of an integer.pdb

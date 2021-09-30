@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\reverse no again\reverse no again\bin\Debug\reverse no again.exe.config
+C:\Users\Premananda\source\repos\reverse no again\reverse no again\bin\Debug\reverse no again.exe
+C:\Users\Premananda\source\repos\reverse no again\reverse no again\bin\Debug\reverse no again.pdb
+C:\Users\Premananda\source\repos\reverse no again\reverse no again\obj\Debug\reverse no again.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\reverse no again\reverse no again\obj\Debug\reverse no again.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\reverse no again\reverse no again\obj\Debug\reverse no again.exe
+C:\Users\Premananda\source\repos\reverse no again\reverse no again\obj\Debug\reverse no again.pdb

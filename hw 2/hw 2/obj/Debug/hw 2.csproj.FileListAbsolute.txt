@@ -1,0 +1,6 @@
+C:\Users\Premananda\source\repos\hw 2\hw 2\bin\Debug\hw 2.exe.config
+C:\Users\Premananda\source\repos\hw 2\hw 2\bin\Debug\hw 2.exe
+C:\Users\Premananda\source\repos\hw 2\hw 2\bin\Debug\hw 2.pdb
+C:\Users\Premananda\source\repos\hw 2\hw 2\obj\Debug\hw 2.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\hw 2\hw 2\obj\Debug\hw 2.exe
+C:\Users\Premananda\source\repos\hw 2\hw 2\obj\Debug\hw 2.pdb

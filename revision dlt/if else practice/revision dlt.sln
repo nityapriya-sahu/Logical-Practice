@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "revision dlt", "..\..\if else practice\revision dlt\revision dlt.csproj", "{BC22A154-D8B2-4529-841D-2689A1F2F8FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC22A154-D8B2-4529-841D-2689A1F2F8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC22A154-D8B2-4529-841D-2689A1F2F8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC22A154-D8B2-4529-841D-2689A1F2F8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC22A154-D8B2-4529-841D-2689A1F2F8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F44DA3-EC98-4722-BFD0-2A00F358AC6E}
+	EndGlobalSection
+EndGlobal

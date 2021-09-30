@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\DCP\DCP\bin\Debug\DCP.exe.config
+C:\Users\Premananda\source\repos\DCP\DCP\bin\Debug\DCP.exe
+C:\Users\Premananda\source\repos\DCP\DCP\bin\Debug\DCP.pdb
+C:\Users\Premananda\source\repos\DCP\DCP\obj\Debug\DCP.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\DCP\DCP\obj\Debug\DCP.exe
+C:\Users\Premananda\source\repos\DCP\DCP\obj\Debug\DCP.pdb
+C:\Users\Premananda\source\repos\DCP\DCP\obj\Debug\DCP.csproj.AssemblyReference.cache

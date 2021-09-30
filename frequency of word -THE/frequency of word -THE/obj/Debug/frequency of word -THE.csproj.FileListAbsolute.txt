@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\frequency of word -THE\frequency of word -THE\obj\Debug\frequency of word -THE.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\frequency of word -THE\frequency of word -THE\obj\Debug\frequency of word -THE.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\frequency of word -THE\frequency of word -THE\bin\Debug\frequency of word -THE.exe.config
+C:\Users\Premananda\source\repos\frequency of word -THE\frequency of word -THE\bin\Debug\frequency of word -THE.exe
+C:\Users\Premananda\source\repos\frequency of word -THE\frequency of word -THE\bin\Debug\frequency of word -THE.pdb
+C:\Users\Premananda\source\repos\frequency of word -THE\frequency of word -THE\obj\Debug\frequency of word -THE.exe
+C:\Users\Premananda\source\repos\frequency of word -THE\frequency of word -THE\obj\Debug\frequency of word -THE.pdb

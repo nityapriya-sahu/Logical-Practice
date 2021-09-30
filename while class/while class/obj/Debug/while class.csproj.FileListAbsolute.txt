@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\while class\while class\bin\Debug\while class.exe.config
+C:\Users\Premananda\source\repos\while class\while class\bin\Debug\while class.exe
+C:\Users\Premananda\source\repos\while class\while class\bin\Debug\while class.pdb
+C:\Users\Premananda\source\repos\while class\while class\obj\Debug\while class.csprojAssemblyReference.cache
+C:\Users\Premananda\source\repos\while class\while class\obj\Debug\while class.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\while class\while class\obj\Debug\while class.exe
+C:\Users\Premananda\source\repos\while class\while class\obj\Debug\while class.pdb

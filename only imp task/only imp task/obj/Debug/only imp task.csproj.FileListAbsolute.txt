@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\only imp task\only imp task\bin\Debug\only imp task.exe.config
+C:\Users\Premananda\source\repos\only imp task\only imp task\bin\Debug\only imp task.exe
+C:\Users\Premananda\source\repos\only imp task\only imp task\bin\Debug\only imp task.pdb
+C:\Users\Premananda\source\repos\only imp task\only imp task\obj\Debug\only imp task.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\only imp task\only imp task\obj\Debug\only imp task.exe
+C:\Users\Premananda\source\repos\only imp task\only imp task\obj\Debug\only imp task.pdb
+C:\Users\Premananda\source\repos\only imp task\only imp task\obj\Debug\only imp task.csproj.AssemblyReference.cache

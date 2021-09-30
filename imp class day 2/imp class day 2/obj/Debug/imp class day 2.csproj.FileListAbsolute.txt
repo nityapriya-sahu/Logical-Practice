@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\imp class day 2\imp class day 2\bin\Debug\imp class day 2.exe.config
+C:\Users\Premananda\source\repos\imp class day 2\imp class day 2\bin\Debug\imp class day 2.exe
+C:\Users\Premananda\source\repos\imp class day 2\imp class day 2\bin\Debug\imp class day 2.pdb
+C:\Users\Premananda\source\repos\imp class day 2\imp class day 2\obj\Debug\imp class day 2.csprojAssemblyReference.cache
+C:\Users\Premananda\source\repos\imp class day 2\imp class day 2\obj\Debug\imp class day 2.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\imp class day 2\imp class day 2\obj\Debug\imp class day 2.exe
+C:\Users\Premananda\source\repos\imp class day 2\imp class day 2\obj\Debug\imp class day 2.pdb

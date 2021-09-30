@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\rough work\rough work\obj\Debug\rough work.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\rough work\rough work\obj\Debug\rough work.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\rough work\rough work\bin\Debug\rough work.exe.config
+C:\Users\Premananda\source\repos\rough work\rough work\bin\Debug\rough work.exe
+C:\Users\Premananda\source\repos\rough work\rough work\bin\Debug\rough work.pdb
+C:\Users\Premananda\source\repos\rough work\rough work\obj\Debug\rough work.exe
+C:\Users\Premananda\source\repos\rough work\rough work\obj\Debug\rough work.pdb

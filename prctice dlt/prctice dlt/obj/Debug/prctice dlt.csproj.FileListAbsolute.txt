@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\prctice dlt\prctice dlt\bin\Debug\prctice dlt.exe.config
+C:\Users\Premananda\source\repos\prctice dlt\prctice dlt\bin\Debug\prctice dlt.exe
+C:\Users\Premananda\source\repos\prctice dlt\prctice dlt\bin\Debug\prctice dlt.pdb
+C:\Users\Premananda\source\repos\prctice dlt\prctice dlt\obj\Debug\prctice dlt.csprojAssemblyReference.cache
+C:\Users\Premananda\source\repos\prctice dlt\prctice dlt\obj\Debug\prctice dlt.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\prctice dlt\prctice dlt\obj\Debug\prctice dlt.exe
+C:\Users\Premananda\source\repos\prctice dlt\prctice dlt\obj\Debug\prctice dlt.pdb

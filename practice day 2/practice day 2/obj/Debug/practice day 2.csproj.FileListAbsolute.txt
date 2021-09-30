@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\practice day 2\practice day 2\bin\Debug\practice day 2.exe.config
+C:\Users\Premananda\source\repos\practice day 2\practice day 2\bin\Debug\practice day 2.exe
+C:\Users\Premananda\source\repos\practice day 2\practice day 2\bin\Debug\practice day 2.pdb
+C:\Users\Premananda\source\repos\practice day 2\practice day 2\obj\Debug\practice day 2.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\practice day 2\practice day 2\obj\Debug\practice day 2.exe
+C:\Users\Premananda\source\repos\practice day 2\practice day 2\obj\Debug\practice day 2.pdb
+C:\Users\Premananda\source\repos\practice day 2\practice day 2\obj\Debug\practice day 2.csproj.AssemblyReference.cache

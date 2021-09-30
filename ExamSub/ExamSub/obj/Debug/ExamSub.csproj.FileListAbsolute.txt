@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\ExamSub\ExamSub\bin\Debug\ExamSub.exe.config
+C:\Users\Premananda\source\repos\ExamSub\ExamSub\bin\Debug\ExamSub.exe
+C:\Users\Premananda\source\repos\ExamSub\ExamSub\bin\Debug\ExamSub.pdb
+C:\Users\Premananda\source\repos\ExamSub\ExamSub\obj\Debug\ExamSub.csprojAssemblyReference.cache
+C:\Users\Premananda\source\repos\ExamSub\ExamSub\obj\Debug\ExamSub.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\ExamSub\ExamSub\obj\Debug\ExamSub.exe
+C:\Users\Premananda\source\repos\ExamSub\ExamSub\obj\Debug\ExamSub.pdb

@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\nested loop\nested loop\bin\Debug\nested loop.exe.config
+C:\Users\Premananda\source\repos\nested loop\nested loop\bin\Debug\nested loop.exe
+C:\Users\Premananda\source\repos\nested loop\nested loop\bin\Debug\nested loop.pdb
+C:\Users\Premananda\source\repos\nested loop\nested loop\obj\Debug\nested loop.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\nested loop\nested loop\obj\Debug\nested loop.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\nested loop\nested loop\obj\Debug\nested loop.exe
+C:\Users\Premananda\source\repos\nested loop\nested loop\obj\Debug\nested loop.pdb

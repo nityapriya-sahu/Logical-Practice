@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\avg. for set of values\avg. for set of values\bin\Debug\avg.for_set_of_values.exe.config
+C:\Users\Premananda\source\repos\avg. for set of values\avg. for set of values\bin\Debug\avg.for_set_of_values.exe
+C:\Users\Premananda\source\repos\avg. for set of values\avg. for set of values\bin\Debug\avg.for_set_of_values.pdb
+C:\Users\Premananda\source\repos\avg. for set of values\avg. for set of values\obj\Debug\avg. for set of values.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\avg. for set of values\avg. for set of values\obj\Debug\avg. for set of values.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\avg. for set of values\avg. for set of values\obj\Debug\avg.for_set_of_values.exe
+C:\Users\Premananda\source\repos\avg. for set of values\avg. for set of values\obj\Debug\avg.for_set_of_values.pdb

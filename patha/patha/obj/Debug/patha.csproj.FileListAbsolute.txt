@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\patha\patha\bin\Debug\patha.exe.config
+C:\Users\Premananda\source\repos\patha\patha\bin\Debug\patha.exe
+C:\Users\Premananda\source\repos\patha\patha\bin\Debug\patha.pdb
+C:\Users\Premananda\source\repos\patha\patha\obj\Debug\patha.csprojAssemblyReference.cache
+C:\Users\Premananda\source\repos\patha\patha\obj\Debug\patha.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\patha\patha\obj\Debug\patha.exe
+C:\Users\Premananda\source\repos\patha\patha\obj\Debug\patha.pdb

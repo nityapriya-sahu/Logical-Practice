@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\examdivide\examdivide\bin\Debug\examdivide.exe.config
+C:\Users\Premananda\source\repos\examdivide\examdivide\bin\Debug\examdivide.exe
+C:\Users\Premananda\source\repos\examdivide\examdivide\bin\Debug\examdivide.pdb
+C:\Users\Premananda\source\repos\examdivide\examdivide\obj\Debug\examdivide.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\examdivide\examdivide\obj\Debug\examdivide.exe
+C:\Users\Premananda\source\repos\examdivide\examdivide\obj\Debug\examdivide.pdb
+C:\Users\Premananda\source\repos\examdivide\examdivide\obj\Debug\examdivide.csproj.AssemblyReference.cache

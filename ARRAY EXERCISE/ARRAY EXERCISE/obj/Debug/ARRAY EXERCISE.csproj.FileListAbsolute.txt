@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\ARRAY EXERCISE\ARRAY EXERCISE\bin\Debug\ARRAY EXERCISE.exe.config
+C:\Users\Premananda\source\repos\ARRAY EXERCISE\ARRAY EXERCISE\bin\Debug\ARRAY EXERCISE.exe
+C:\Users\Premananda\source\repos\ARRAY EXERCISE\ARRAY EXERCISE\bin\Debug\ARRAY EXERCISE.pdb
+C:\Users\Premananda\source\repos\ARRAY EXERCISE\ARRAY EXERCISE\obj\Debug\ARRAY EXERCISE.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\ARRAY EXERCISE\ARRAY EXERCISE\obj\Debug\ARRAY EXERCISE.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\ARRAY EXERCISE\ARRAY EXERCISE\obj\Debug\ARRAY EXERCISE.exe
+C:\Users\Premananda\source\repos\ARRAY EXERCISE\ARRAY EXERCISE\obj\Debug\ARRAY EXERCISE.pdb

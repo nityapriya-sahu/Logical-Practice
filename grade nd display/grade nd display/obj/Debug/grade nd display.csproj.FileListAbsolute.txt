@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\grade nd display\grade nd display\bin\Debug\grade nd display.exe.config
+C:\Users\Premananda\source\repos\grade nd display\grade nd display\bin\Debug\grade nd display.exe
+C:\Users\Premananda\source\repos\grade nd display\grade nd display\bin\Debug\grade nd display.pdb
+C:\Users\Premananda\source\repos\grade nd display\grade nd display\obj\Debug\grade nd display.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\grade nd display\grade nd display\obj\Debug\grade nd display.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\grade nd display\grade nd display\obj\Debug\grade nd display.exe
+C:\Users\Premananda\source\repos\grade nd display\grade nd display\obj\Debug\grade nd display.pdb

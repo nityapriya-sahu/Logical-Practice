@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\height category\height category\bin\Debug\height category.exe.config
+C:\Users\Premananda\source\repos\height category\height category\bin\Debug\height category.exe
+C:\Users\Premananda\source\repos\height category\height category\bin\Debug\height category.pdb
+C:\Users\Premananda\source\repos\height category\height category\obj\Debug\height category.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\height category\height category\obj\Debug\height category.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\height category\height category\obj\Debug\height category.exe
+C:\Users\Premananda\source\repos\height category\height category\obj\Debug\height category.pdb

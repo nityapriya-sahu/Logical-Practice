@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\practice if else\practice if else\bin\Debug\practice if else.exe.config
+C:\Users\Premananda\source\repos\practice if else\practice if else\bin\Debug\practice if else.exe
+C:\Users\Premananda\source\repos\practice if else\practice if else\bin\Debug\practice if else.pdb
+C:\Users\Premananda\source\repos\practice if else\practice if else\obj\Debug\practice if else.csprojAssemblyReference.cache
+C:\Users\Premananda\source\repos\practice if else\practice if else\obj\Debug\practice if else.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\practice if else\practice if else\obj\Debug\practice if else.exe
+C:\Users\Premananda\source\repos\practice if else\practice if else\obj\Debug\practice if else.pdb

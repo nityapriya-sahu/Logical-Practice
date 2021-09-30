@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\ATM Trasaction\ATM Trasaction\bin\Debug\ATM Trasaction.exe.config
+C:\Users\Premananda\source\repos\ATM Trasaction\ATM Trasaction\bin\Debug\ATM Trasaction.exe
+C:\Users\Premananda\source\repos\ATM Trasaction\ATM Trasaction\bin\Debug\ATM Trasaction.pdb
+C:\Users\Premananda\source\repos\ATM Trasaction\ATM Trasaction\obj\Debug\ATM Trasaction.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\ATM Trasaction\ATM Trasaction\obj\Debug\ATM Trasaction.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\ATM Trasaction\ATM Trasaction\obj\Debug\ATM Trasaction.exe
+C:\Users\Premananda\source\repos\ATM Trasaction\ATM Trasaction\obj\Debug\ATM Trasaction.pdb

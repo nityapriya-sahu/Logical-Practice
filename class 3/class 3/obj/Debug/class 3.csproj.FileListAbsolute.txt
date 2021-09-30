@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\class 3\class 3\bin\Debug\class 3.exe.config
+C:\Users\Premananda\source\repos\class 3\class 3\bin\Debug\class 3.exe
+C:\Users\Premananda\source\repos\class 3\class 3\bin\Debug\class 3.pdb
+C:\Users\Premananda\source\repos\class 3\class 3\obj\Debug\class 3.csprojAssemblyReference.cache
+C:\Users\Premananda\source\repos\class 3\class 3\obj\Debug\class 3.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\class 3\class 3\obj\Debug\class 3.exe
+C:\Users\Premananda\source\repos\class 3\class 3\obj\Debug\class 3.pdb

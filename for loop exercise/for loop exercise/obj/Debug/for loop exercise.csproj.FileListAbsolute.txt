@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\for loop exercise\for loop exercise\bin\Debug\for loop exercise.exe.config
+C:\Users\Premananda\source\repos\for loop exercise\for loop exercise\bin\Debug\for loop exercise.exe
+C:\Users\Premananda\source\repos\for loop exercise\for loop exercise\bin\Debug\for loop exercise.pdb
+C:\Users\Premananda\source\repos\for loop exercise\for loop exercise\obj\Debug\for loop exercise.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\for loop exercise\for loop exercise\obj\Debug\for loop exercise.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\for loop exercise\for loop exercise\obj\Debug\for loop exercise.exe
+C:\Users\Premananda\source\repos\for loop exercise\for loop exercise\obj\Debug\for loop exercise.pdb

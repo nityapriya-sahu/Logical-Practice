@@ -1,0 +1,7 @@
+C:\Users\Premananda\source\repos\revision dlt\revision dlt\bin\Debug\revision dlt.exe.config
+C:\Users\Premananda\source\repos\revision dlt\revision dlt\bin\Debug\revision dlt.exe
+C:\Users\Premananda\source\repos\revision dlt\revision dlt\bin\Debug\revision dlt.pdb
+C:\Users\Premananda\source\repos\revision dlt\revision dlt\obj\Debug\revision dlt.csproj.AssemblyReference.cache
+C:\Users\Premananda\source\repos\revision dlt\revision dlt\obj\Debug\revision dlt.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\revision dlt\revision dlt\obj\Debug\revision dlt.exe
+C:\Users\Premananda\source\repos\revision dlt\revision dlt\obj\Debug\revision dlt.pdb

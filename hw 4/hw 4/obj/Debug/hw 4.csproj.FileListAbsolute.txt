@@ -1,0 +1,6 @@
+C:\Users\Premananda\source\repos\hw 4\hw 4\bin\Debug\hw 4.exe.config
+C:\Users\Premananda\source\repos\hw 4\hw 4\bin\Debug\hw 4.exe
+C:\Users\Premananda\source\repos\hw 4\hw 4\bin\Debug\hw 4.pdb
+C:\Users\Premananda\source\repos\hw 4\hw 4\obj\Debug\hw 4.csproj.CoreCompileInputs.cache
+C:\Users\Premananda\source\repos\hw 4\hw 4\obj\Debug\hw 4.exe
+C:\Users\Premananda\source\repos\hw 4\hw 4\obj\Debug\hw 4.pdb
